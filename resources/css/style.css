@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #000;
+	font-size: 16px;
+	font-family: "Verdana", sans-serif;
+	color: #fff;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3.125rem;
+	margin: 3rem auto;
+}
+
+a {
+	color: aquamarine;
+}

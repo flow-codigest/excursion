@@ -14,9 +14,30 @@ html {
 
 h1 {
 	font-size: 3.125rem;
+	font-weight: normal;
 	margin: 3rem auto;
 }
 
 a {
 	color: aquamarine;
+}
+
+p video {
+	margin: 1.5rem 0;
+}
+
+h2 {
+	margin: 1.75rem 0;
+	font-size: 2.625rem;
+	font-weight: 300;
+}
+
+p {
+	color: gray;
+	font-size: 1.3125rem;
+}
+
+p img {
+	margin: 1.2rem 0;
+	width: 40%;
 }
